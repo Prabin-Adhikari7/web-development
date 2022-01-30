@@ -1,0 +1,28 @@
+
+body{
+    margin: 0px;
+}
+#topbar{
+    background-color: rgb(175, 193, 228);
+    padding:22px;
+}
+.linkdecor{
+    padding-left: 10px;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    /* in this we have taken the google font where the family of the font is rubik */
+    /* now here in the link section we can have the link which can tell us it's visites or not and hover and active. */
+}
+
+.linkdecor:link{
+     color: rgb(0, 0, 0);
+}.linkdecor:visited{
+    color: rgb(5, 71, 35);
+}
+
+.linkdecor:hover{
+    color: rgb(167, 14, 243);
+}
+.linkdecor:active{
+    color: rgb(124, 124, 245);
+}

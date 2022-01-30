@@ -1,0 +1,20 @@
+single-selector are most commonly use but now we can use cominator which defines the relation between two selectors
+some of the combinators are 
+descendant selector:''
+div p{
+    font-size:44px;
+}
+child selector:
+in this child selector we can use > sign to represent child selector.
+this only includes the element that are in the article element but of any other html element like div make interfarance in between
+and the p is in any then it won't work.
+
+article>p{
+
+}
+adjacent sibling selector:
++ is the adj selector
+
+
+
+general sibling selector:~

@@ -1,0 +1,59 @@
+#btn-login{
+    background-color: rgb(139, 139, 172);
+    border: none;
+    border-radius: 5px;
+    padding: 14px;
+    width: 108px;
+    outline: none;
+    cursor: pointer;
+}
+#btn-login:hover{
+    color: whitesmoke;
+    background-color: cadetblue;
+}
+#btn-singnup{
+    cursor: pointer;
+    background-color: thistle;
+    border: solid black 3px;
+    padding: 14px;
+    width: 108px;
+    border-radius: 3px;
+
+}
+
+#btn-singnup:hover{
+    color: cornflowerblue;
+    background-color: black;
+}
+#second{
+    margin: 44px;
+    padding: 22px;
+    background-color: wheat;
+}
+#facebook-btn{
+    background-color: #3b5998;
+    padding: 8px;
+    border:0px;
+    color: whitesmoke;
+    border-radius: 2px;
+cursor: pointer;
+}
+#Google-btn{
+    background-color: #4285F4;
+    padding: 9px;
+    border:0px;
+    color: whitesmoke;
+    border-radius: 2px;
+cursor: pointer;
+}
+#Github-btn{
+    background-color: #171515;
+    padding: 9px;
+    border:0px;
+    color: whitesmoke;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#fb{
+    padding-right: 2px;
+}

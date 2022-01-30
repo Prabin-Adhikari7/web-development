@@ -1,0 +1,42 @@
+/* h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+/* --------------------Styling the text in css. */
+/* p{
+    color: brown;
+    text-align: justify;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 2px;
+    word-spacing:-1px;
+    line-height: 1;
+    font-family: 'Akronim', cursive;
+}  */
+ /* -----------------------------adding the boarder to the css  */ 
+/* #pica{ */
+    /* border-style: dotted; */
+    /* border-top-style: dotted;
+    border-left-style: solid;
+    border-width:  6px;
+    border-color: brown;
+    border-radius: 33px;
+} */
+/* ------now here we are adding style to the list 
+ */
+ /* ol{
+     list-style-type
+     :upper-alpha;
+     list-style-type: upper-roman;
+     list-style-position: inside;
+ }
+ ul{
+     list-style-type: square;
+     list-style-type: none;
+     padding-left: 0px;
+     list-style-position: inside;
+ } */
+ /* ----------------------here we are going to style the links  */
+ 

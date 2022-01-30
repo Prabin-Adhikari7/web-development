@@ -1,0 +1,20 @@
+ /* css can make the span into the block element and block element into the inline one */
+body{
+    margin: 0px;
+}
+#top-navbar{
+
+    background-color: thistle;
+    height: 50px;
+    width: 100%;
+    display: inline;
+}
+ .spaner{
+     background-color: whitesmoke;
+    padding: 22px;
+    display: block;
+    /* visibility: hidden; */
+    /* display: none; */
+    /* display properties can be changes via css */
+    /* block can be changed into inline and vice versa */
+}

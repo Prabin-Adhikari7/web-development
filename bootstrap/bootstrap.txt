@@ -1,0 +1,36 @@
+frontend framework
+material ui
+tailwind css
+materialize css
+why bootstrap 
+bootstrap is easy and with small knowledge frontend ui can be developed
+for responsive screensize
+this is the responsive way of using 
+npm nodepackage manager
+saas ----$ customize the colour in bootstrap
+------------
+browser compactability
+dom manupulation////
+FOR ICONES ALSO 
+
+downloard
+npm cdn custom download
+
+max width and min minwidth
+and cdn with normal linking the css and javascript 
+---------------
+reboot
+typography 
+-heading according to content.
+COLORS
+BUTTON
+container
+------------------
+float---
+flex---
+grid ---
+=============================
+mobile first and desktop first is the way that developer uses during designing the website 
+
+flexbox using bootstrap
+A

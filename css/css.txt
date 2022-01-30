@@ -1,0 +1,29 @@
+cascading style sheets.
+it shows how the html look good.  
+it is ussed to format the html page and give it a grand look that to the webpage.
+it has selector and declaration blocklike in the example bellow 
+p{------it is a selector 
+    font size:34px;-------they are the declatation 
+    color:blue;---
+}
+there are many way we can use the css and the  types of the css are inline ,internal and external css.
+inline are like 
+<p style="border="1px";>
+and another is by giving the internal css which is by adding the style in the the head section 
+and external by linking the css with the html and making the adorable css sheets.
+
+Styling the text in css.
+for the stylist font size we can go through the google font and have by getting the links and the text image and many more .just like it is done in
+the index.html.
+
+giving margin and padding to the css sheet where paddding is the spacce between the text and the boreder and the margin is the
+space between the border and the screen edges.
+useful website:
+https://fonts.google.com/--google font.
+https://fontawesome.com/---fontawesome for the awesome icons of the social site.
+margin top :44px;
+magin right:22px;
+margin buttom:5px;
+margin left:4px;
+margin: 44px 22px 5px 4px;
+

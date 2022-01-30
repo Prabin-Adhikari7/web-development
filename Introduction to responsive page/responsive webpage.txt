@@ -1,0 +1,15 @@
+Responsive web page using css and html5.
+there are many ways to make it resposive and some ways are using css grid ,flexbox, media quories
+
+moving onto the css viewport.
+to make your website resposive viewport meta tag is most needed
+div{
+    width:12px ----bot way to do thing intested to make it resposive.
+    width: 24vw;
+    height:22vh;
+} 
+moving onto the dynamix size of webpages images and fonts.
+change the width to  100%
+and set max width to cetain pixel that it can maintain the responsiveness of the image and 
+text as well.
+Media quories 

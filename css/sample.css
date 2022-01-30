@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+
+}
+header{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(190, 190, 240);
+    padding: 22px;
+    position:sticky;
+    top: 0;
+    
+    z-index: 10;
+   
+}
+ol{
+    position: relative;
+    top: 0px;
+}
+li{
+    padding: 22px;
+    display: inline;
+}
+#image-wrapper{
+   background-color: lightblue;
+   position: relative;
+   top: 0px;
+   height: 593px;
+}
+#img-display{
+    position: relative;
+    top: 118px; 
+    left: 10px;
+}
+
+#wrapper-cookie{
+    position: relative;
+   
+    width: 100px;
+}
+#contain{
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgb(82, 49, 121);
+    
+
+}

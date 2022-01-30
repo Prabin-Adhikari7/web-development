@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: rgb(138, 186, 238);
+    height: 80px;
+    width: auto;
+    margin-bottom: 10px;
+    position: sticky;
+    top: 0;
+
+}
+aside{
+    background-color: rgb(158, 44, 149);
+    width: 20%;
+    height: 450px;
+    display: inline-block;
+    margin-left: 22px;
+    margin-right: 33px;
+    
+}
+section{
+    background-color: darkgrey;
+    width: 65%;
+    height: 450px;
+    display: inline-block;
+    margin-left: 22px;
+
+}
+footer{
+    background-color: rgba(175, 142, 69, 0.426);
+    height: 300px;
+    width: auto;
+
+}

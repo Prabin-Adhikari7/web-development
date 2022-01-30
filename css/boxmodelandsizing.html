@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #container01{
+            background-color: burlywood;
+            width: 300px;
+            height: 300px;
+            padding: 32px;
+            box-sizing:content-box ;
+            background-color: chartreuse;
+        }
+        #container02{
+            background-color: rgb(135, 248, 174);
+            width: 300px;
+            height: 300px;
+            padding: 32px;
+            background-color: cadetblue;
+            margin: 20px;
+            /* the size of the container02 will be bigger according to the concepts of box-model to minimize the this error we say
+            we have to use the concept of box sizing  by default it is containt box and if we change the box-sizing to boarder-box then the
+            will not increse*/
+             box-sizing: border-box;
+        }
+        .image{
+            width:100%;
+            height: 222px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="container01"> 
+        <img src="../Event.jpg" alt="mybhudi" width="220px">
+    </div>
+    <div id="container02">
+        <img src="../Event.jpg" alt="same" width="22px">
+    </div>
+</body>
+</html>
